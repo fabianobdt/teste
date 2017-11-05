@@ -1,0 +1,23 @@
+### Public ###
+
+public/
+
+### Node Modules ###
+
+node_modules/
+
+### Files ###
+
+files/
+
+### Java metadata ###
+
+workspace/.metadata/
+
+### Java Remote ###
+
+workspace/RemoteSystemsTempFiles/
+
+### Java Servers ###
+
+workspace/Servers
